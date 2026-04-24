@@ -1,0 +1,14 @@
+<?php
+
+echo  'XXXXXXXXXXXXXX\n
+      XXXXXXXXXXXXXXXX\n
+      XXXXXXXXXXXXXXXX\n
+      XXXX   BLOG  XXXX\n
+      XXXXXXXXXXXXXXXX\n
+      XXXXXXXXXXXXXXXX\n
+      XXXXXXXXXXXXXXXX\n
+      XXXXXXXXXXXXXXXX\n';
+echo "\n";
+
+
+?>

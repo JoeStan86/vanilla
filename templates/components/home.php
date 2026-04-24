@@ -1,44 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-   <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>BloomOn</title>
-    <!-- Link to your local Tachyons file -->
-
-
-   <style>
-        /* Your custom "Tweaks" */
-        :root { --brand-purple: #7e22ce; }
-        .bg-brand { background-color: var(--brand-purple); }
-        .hover-brand:hover { color: var(--brand-purple); }
-        .f-calligraphy { 
-           font-family: 'Dancing Script', cursive; 
-           text-transform: none;
-        }
-    </style>   
-
-
-
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap" rel="stylesheet">
- <link  rel="stylesheet" href="assets/css/tachyons.css">
-  <!-----  <link rel="stylesheet" href="assets/css/test.css">  --->
-
-   
-</head>
-<body class="sans-serif near-black bg-white">
-
-    <!-- Navigation -->
-    <nav class="db dt-l w-100 border-box pa3 ph4-l bb b--black-10 mw9 center">
-      <a class="f-calligraphy db dtc-l v-mid mid-gray link dim w-100 w-25-l tc tl-l mb2 mb0-l fw7 f1" href="#" title="Home">Jessica Joy Bloom</a>
-      <div class="db dtc-l v-mid w-100 w-75-l tc tr-l">
-        <a class="link dim dark-gray f6 f5-l dib mr3 mr4-l hover-brand" href="#features" title="Features">Features</a>
-        <a class="link dim dark-gray f6 f5-l dib hover-brand" href="#contact" title="Contact">Contact</a>
-      </div>
-    </nav>
-
     <!-- Hero Section -->
     <header class="vh-75 white cover bg-center dt w-100"
      style="background-image: url('assets/images/Stanish Family-0075.jpg'); "> 
@@ -81,10 +40,5 @@
     </form>
   </div>
 </section>
-    <!-- Footer -->
-    <footer class="pv4 ph3 ph5-m ph6-l mid-gray bt b--black-10">
-      <small class="f6 db tc">© 2024 <b class="ttu">Jessica Joy Bloom</b>. All Rights Reserved</small>
-    </footer>
 
-</body>
-</html>
+
